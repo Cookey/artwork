@@ -1,1 +1,10 @@
+Embed Font
+To embed cookey.io fonts into HTML content, copy this code into the <head> of your HTML document.
+
+STANDARD @IMPORT
 <link href="https://fonts.googleapis.com/css?family=Anonymous+Pro" rel="stylesheet">
+Specify in CSS
+Use the following CSS rules to specify these families:
+
+font-family: 'Anonymous Pro', monospace;
+For examples of how fonts can be added to webpages, see the getting started guide.
